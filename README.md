@@ -1,5 +1,5 @@
 # Lung-Cancer-Linear-Regression-Model
-Lung cancer mortality rate associated with socioeconomic status for low income segment
+Lung cancer mortality rate associated with socioeconomic status.
 We have been employed as data scientists by a consulting company whose aim is to find associative and consequential factors of low income group population through effective analysis from past open data. 
 We've been asked to examine whether low income groups are at greater risk for being diagnosed and dying from cancer. If successful, our analysis will help the nonprofit with lobbying and fundraising.
 
